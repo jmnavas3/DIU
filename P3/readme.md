@@ -15,6 +15,22 @@ Enlace para ver el <a href="https://app.milanote.com/1NMWop16o8ELfc?p=Zxzq6EU3yf
 
 ## Landing Page
 
+En nuestra Landing Page, seguimos la idea de diseño de las prácticas anteriores para captar la atención del cliente usando un título motivador, elementos gráficos de refuerzo y usamos nuestra paleta de colores creada.
+
+Se usa un scroll para que el usuario pueda ver toda la información de la página y si pulsas el botón principal te redirige a la app Creada:
+
+<img width="auto" alt="pagina_1" src="https://user-images.githubusercontent.com/74509484/169686669-f8834cff-0423-4140-aa6a-642754c7f3ce.PNG">
+
+<img width="auto" alt="pagina_2" src="https://user-images.githubusercontent.com/74509484/169686672-8c80fd7c-fe6e-4203-a49b-f99be455dc34.PNG">
+
+Enlace para ver la <a href="https://lemon-rock-a25875.webflow.io/">Landing Page</a>.
+
+
+
+
+
+
+
 
 ## Guidelines 
 
