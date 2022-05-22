@@ -19,10 +19,6 @@ En nuestra Landing Page, seguimos la idea de diseño de las prácticas anteriore
 
 Se usa un scroll para que el usuario pueda ver toda la información de la página y si pulsas el botón principal te redirige a la app Creada:
 
-<img width="auto" alt="pagina_1" src="https://user-images.githubusercontent.com/74509484/169686669-f8834cff-0423-4140-aa6a-642754c7f3ce.PNG">
-
-<img width="auto" alt="pagina_2" src="https://user-images.githubusercontent.com/74509484/169686672-8c80fd7c-fe6e-4203-a49b-f99be455dc34.PNG">
-
 ![Pagina_completa](https://user-images.githubusercontent.com/74509484/169686767-712f5e58-3760-47f8-864f-cbba11d8f326.png)
 
 
@@ -75,7 +71,9 @@ Los patrones que hemos usado los hemos escogido de: https://ui-patterns.com/patt
 
 ## Mockup: LAYOUT HI-FI
 
-Enlace para ver el <a href="https://app.milanote.com/1NMWop16o8ELfc?p=Zxzq6EU3yfk">Modboard</a>.
+En esta parte hemos implementado los prototipos para las páginas que diseños en la práctica anterior, a través de la herramienta <a href="https://cloud.protopie.io">Aplicación</a>.
+
+Enlace para ver la <a href="https://cloud.protopie.io/p/c5be3297d5">Aplicación</a>.
 ## Documentación: Publicación del Case Study
 
 
