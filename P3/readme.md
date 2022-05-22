@@ -91,8 +91,5 @@ Página Ruta
 
 
 Enlace para ver la <a href="https://cloud.protopie.io/p/c5be3297d5">Aplicación</a>.
-## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
