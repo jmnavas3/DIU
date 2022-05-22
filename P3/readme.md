@@ -71,7 +71,24 @@ Los patrones que hemos usado los hemos escogido de: https://ui-patterns.com/patt
 
 ## Mockup: LAYOUT HI-FI
 
-En esta parte hemos implementado los prototipos para las páginas que diseños en la práctica anterior, a través de la herramienta <a href="https://cloud.protopie.io">Aplicación</a>.
+En esta parte hemos implementado los prototipos para las páginas que diseños en la práctica anterior, a través de la herramienta <a href="https://www.protopie.io/">ProtoPie</a>.
+
+Página Principal
+
+![principal](https://user-images.githubusercontent.com/74509484/169687792-421f8f3b-e60d-49eb-a1e1-3c9a34425f02.png)
+
+Página Asientos
+
+![asientos](https://user-images.githubusercontent.com/74509484/169687764-832fc9d7-cef4-4608-83bf-9f336a128981.png)
+
+Página Catering
+
+![catering](https://user-images.githubusercontent.com/74509484/169687770-01a0bb3d-4d2c-45fc-91e2-cfcb744980ad.png)
+
+Página Ruta
+
+![rutas](https://user-images.githubusercontent.com/74509484/169687809-294765bd-f690-4274-a137-0f7f9639b949.png)
+
 
 Enlace para ver la <a href="https://cloud.protopie.io/p/c5be3297d5">Aplicación</a>.
 ## Documentación: Publicación del Case Study
