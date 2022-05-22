@@ -4,7 +4,7 @@ En esta práctica se han usado diversas herramientas para el diseño del IU en m
 
 ## Moodboard (diseño visual + logotipo)   
 
-El primer paso es el diseño del modboard, que es nuestra guía de estilos visual, en ella incluimos nuestro logotipo, paleta de colores usada, imagenes inspiradoras, iconografía, las fuentes que vamos a usar y algunos comentarios de usuarios :
+El primer paso es el diseño del modboard, a través de la herramienta <a href="https://milanote.com/">Milanote</a> que es nuestra guía de estilos visual, en ella incluimos nuestro logotipo, paleta de colores usada, imagenes inspiradoras, iconografía, las fuentes que vamos a usar y algunos comentarios de usuarios :
 
 
 ![export_canvas_ofertalemon-220522_0839](https://user-images.githubusercontent.com/74509484/169686244-8452c43a-ecf6-416d-bf7d-4bea39888c20.png)
@@ -15,7 +15,7 @@ Enlace para ver el <a href="https://app.milanote.com/1NMWop16o8ELfc?p=Zxzq6EU3yf
 
 ## Landing Page
 
-En nuestra Landing Page, seguimos la idea de diseño de las prácticas anteriores para captar la atención del cliente usando un título motivador, elementos gráficos de refuerzo y usamos nuestra paleta de colores creada.
+En nuestra Landing Page, seguimos la idea de diseño de las prácticas anteriores para captar la atención del cliente usando un título motivador, elementos gráficos de refuerzo y usamos nuestra paleta de colores creada, se ha usado la herramienta <a href="https://webflow.com/">WebFlow</a>.
 
 Se usa un scroll para que el usuario pueda ver toda la información de la página y si pulsas el botón principal te redirige a la app Creada:
 
