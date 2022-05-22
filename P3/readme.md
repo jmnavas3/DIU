@@ -23,6 +23,9 @@ Se usa un scroll para que el usuario pueda ver toda la información de la págin
 
 <img width="auto" alt="pagina_2" src="https://user-images.githubusercontent.com/74509484/169686672-8c80fd7c-fe6e-4203-a49b-f99be455dc34.PNG">
 
+![Pagina_completa](https://user-images.githubusercontent.com/74509484/169686767-712f5e58-3760-47f8-864f-cbba11d8f326.png)
+
+
 Enlace para ver la <a href="https://lemon-rock-a25875.webflow.io/">Landing Page</a>.
 
 
